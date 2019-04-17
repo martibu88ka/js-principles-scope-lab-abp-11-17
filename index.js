@@ -1,5 +1,5 @@
 // Write your solution in this file!
 customerName="bob"
-function upperCaseCustomerName(customerName){
-  return customerName.toUpperCase;
+function upperCaseCustomerName(bob){
+  return bob.toUpperCase;
 }
