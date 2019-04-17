@@ -8,5 +8,5 @@ function setBestCustomer(){
 bestCustomer="not bob"
 }
 function overwriteBestCustomer(){
-  let bestCustomer="maybe bob"
+bestCustomer="maybe bob"
 }
