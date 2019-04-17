@@ -5,6 +5,5 @@ function upperCaseCustomerName(){
   customerName = customerName.toUpperCase()
 }
 function setBestCustomer(){
-var bestCustomer
-return bestCustomer ===("not bob")=("not `customerName`")
+bestCustomer="not bob"
 }
