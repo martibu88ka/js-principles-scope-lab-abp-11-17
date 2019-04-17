@@ -3,7 +3,7 @@ var customerName="bob"
 
 var bestCustomer
 function upperCaseCustomerName(){
-var customerName.toUpperCase()
+var customerName=customerName.toUpperCase()
 }
 function setBestCustomer(){
 
